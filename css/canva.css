@@ -36,6 +36,6 @@ body {
     z-index: 0;
     margin: 0 auto;
 
-    background-image: url("map-3.png");
+    background-image: url("../img/map-3.png");
     background-size: cover;
 }
